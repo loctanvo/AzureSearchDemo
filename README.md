@@ -1,1 +1,1 @@
-# AzureSearchDemo
+# Azure Search Demo
