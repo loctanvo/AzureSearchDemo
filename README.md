@@ -1,1 +1,1 @@
-#Working version of the Aurelia Contact Manager tutorial
+Working version of the Aurelia Contact Manager tutorial
