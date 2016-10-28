@@ -1,3 +1,1 @@
-# Azure Search Demo
-
-The UI can be reached by this url: https://4subsea.github.io/AzureSearchDemo/ui/
+#Working version of the Aurelia Contact Manager tutorial
